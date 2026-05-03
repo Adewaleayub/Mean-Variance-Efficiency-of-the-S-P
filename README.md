@@ -1,70 +1,48 @@
-📊 Equity Valuation & Financial Modeling Portfolio
+# 📊 Equity Valuation & Financial Modeling Projects
 
+This repository contains equity valuation models and financial analysis projects developed using Excel. The focus is on applying core valuation techniques to real publicly traded companies and deriving investment insights.
 
-This repository contains a collection of equity valuation models and financial analysis reports developed using Excel. The focus is on applying core valuation techniques to real publicly traded companies.
-The projects demonstrate practical experience in company analysis, financial modeling, valuation, and investment decision-making.
+## 🚀 Projects
 
-🚀 Projects
+### 1. Altus Group Ltd. — Equity Valuation (Independent)
+- Built full valuation model using Discounted Cash Flow (DCF), Consolidated Cash Flow (CSCF), and Comparable Company Analysis (CCA)
+- Performed financial statement analysis, forecasting, and assumption building (WACC, growth, margins)
+- Conducted sensitivity analysis on key variables (discount rate, terminal growth, inflation, tax)
+- Concluded that the stock is overvalued based on intrinsic valuation
 
-🔹 Altus Group Ltd. — Equity Valuation (Independent Project)
+### 2. FirstEnergy Corp — Equity Valuation (Group)
+- Conducted company and industry analysis, including financial statement and ratio analysis
+- Evaluated profitability, liquidity, solvency, and efficiency metrics
+- Applied DCF, Dividend Discount Model (DDM), and Comparable Company Analysis (CCA)
+- Identified leverage and liquidity risks, supporting a cautious investment stance
 
-•	Built a full valuation model using: 
-o	Discounted Cash Flow (DCF) 
-o	Consolidated Cash Flow (CSCF) 
-o	Comparable Company Analysis (CCA) 
-•	Performed: 
-o	Financial statement analysis and forecasting 
-o	Sensitivity analysis on key assumptions (WACC, growth, inflation, tax) 
-•	Result: 
-o	Identified the stock as overvalued, with intrinsic value below market price 
+### 3. Capital Power Corp — Equity Valuation (Group)
+- Developed integrated valuation using DCF (50%), DDM (30%), and CCA (20%)
+- Built detailed financial forecasts by segment and key operating drivers
+- Performed sensitivity and scenario analysis to test valuation robustness
+- Derived a target price of ~CAD 78.41, indicating moderate upside potential
 
-🔹 FirstEnergy Corp — Equity Valuation (Group Project)
+## 🛠️ Tools Used
 
-•	Conducted comprehensive: 
-o	Company and industry analysis 
-o	Financial statement and ratio analysis 
-•	Valuation methods: 
-o	DCF, Dividend Discount Model (DDM), Comparable Company Analysis (CCA) 
-•	Key insight: 
-o	Highlighted high leverage and liquidity constraints, supporting a cautious investment stance 
+- Microsoft Excel (Advanced Financial Modeling)
+- Financial Statements & Public Filings
+- Market Data & Industry Benchmarks
 
-🔹 Capital Power Corp — Equity Valuation (Group Project)
+## 🧠 Key Concepts Applied
 
-•	Developed integrated valuation framework using: 
-o	DCF (50%), DDM (30%), CCA (20%) 
-•	Built detailed financial forecasts and assumptions by business segment 
-•	Performed sensitivity and scenario analysis 
-•	Result: 
-o	Estimated target price of ~CAD 78.41, indicating moderate upside potential 
+- Discounted Cash Flow (DCF)
+- Dividend Discount Model (DDM)
+- Comparable Company Analysis (CCA)
+- Financial statement analysis
+- Sensitivity and scenario analysis
+- Investment decision-making
 
+## 🎯 Purpose
 
-🛠️ Tools Used
+These projects demonstrate the application of financial theory to real-world valuation and investment analysis. The repository reflects my ability to build structured financial models, analyze companies, and derive data-driven investment recommendations.
 
-•	Microsoft Excel (Advanced Financial Modeling) 
-•	Financial Statements & Public Filings 
-•	Market Data & Industry Benchmarks 
+## 👤 Author
 
-
-🧠 Key Skills Demonstrated
-
-•	Equity valuation (DCF, DDM, CCA) 
-•	Financial modeling and forecasting 
-•	Sensitivity and scenario analysis 
-•	Financial statement and ratio analysis 
-•	Investment research and recommendation 
-
-
-🎯 Purpose
-This repository showcases my ability to:
-•	Analyze real companies and industries 
-•	Build structured valuation models 
-•	Interpret financial results and make investment recommendations 
-It serves as a portfolio of my work in equity research and financial analysis.
-
-
-👤 Author
-
-Ayuba Jimoh
-Master of Finance Candidate — McMaster University
+Ayuba Jimoh  
+Master of Finance Candidate — McMaster University  
 Financial Analyst
-
