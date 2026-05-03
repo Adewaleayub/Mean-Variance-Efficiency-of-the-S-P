@@ -63,8 +63,8 @@ It serves as a portfolio of my work in equity research and financial analysis.
 
 
 👤 Author
+
 Ayuba Jimoh
 Master of Finance Candidate — McMaster University
-
 Financial Analyst
 
